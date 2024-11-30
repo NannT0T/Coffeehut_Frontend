@@ -1,3 +1,5 @@
-New Seasonal Menu with discount
+Daily (5% Discount)
 
-![image](https://github.com/user-attachments/assets/37c2426c-42ae-4c35-989f-11bbe4f2b8d3)
+Monthly (10% Discount)
+
+Quarterly (15% Discount)
